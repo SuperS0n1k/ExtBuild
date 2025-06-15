@@ -98,7 +98,7 @@ document.body.innerHTML += `
             </div>
             <textarea id="code-area" class="social-form social-textarea" name="embed" style="height:500px">
 	    return {
-	    	id: "myExtension",
+	    	id: "math", // any other id breaks it, idk why
 	    	name: "My Extension",
 	    	blocks: [
 	        {
