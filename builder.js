@@ -118,8 +118,8 @@ document.body.innerHTML += `
 	        },
 	      	
 	    	]
-	    }
-	}
+	    } // use arrow keys to scroll down
+	} 
 
 	Out({a,b}, util) {
 		let variable = util.target.lookupOrCreateList(undefined, b);
