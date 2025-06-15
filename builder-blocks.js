@@ -28,7 +28,7 @@ class ScratchBuilder {
 
 	getInfo() {
 	    return {
-	    	id: "buildext",
+	    	id: "math",
 	    	name: "Builder",
             blockIconURI: icon,
 			menuIconURI: icon,
