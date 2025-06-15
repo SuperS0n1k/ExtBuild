@@ -1,4 +1,4 @@
-function exportCode() {
+window.exportCode = function() {
 let coke =    `
     // =================== Scratch extension =================== 
 
